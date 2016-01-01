@@ -5,12 +5,12 @@ package Khalesoskehcode.ui.simplegame
 	
 	public class Khalesoskeh_battle extends MovieClip
 	{
-		private ver
+		
 		public function Khalesoskeh_battle()
 		{
+			trace("Hi");
 			super();
-			this.khalesoskeh_battle();
-			jamp();
+			this.stop();
 		}
 	}
 }
