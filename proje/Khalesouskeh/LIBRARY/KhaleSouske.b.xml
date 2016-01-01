@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="KhaleSouske_b" itemID="5683e6ca-00000246" linkageExportForAS="true" linkageClassName="Khalesoskeh_battle" lastModified="1451488146">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="KhaleSouske.b" itemID="568626ee-000001d7" linkageExportForAS="true" linkageClassName="Khalesoskehcode.ui.simplegame.Khalesoskeh_battle" lastModified="1451632736">
   <timeline>
-    <DOMTimeline name="KhaleSouske_b" currentFrame="1">
+    <DOMTimeline name="KhaleSouske.b">
       <layers>
         <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>

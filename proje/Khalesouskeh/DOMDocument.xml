@@ -4,16 +4,16 @@
           <DOMBitmapItem name="kale-sooske.png" itemID="5683e507-0000023c" sourceExternalFilepath="./LIBRARY/kale-sooske.png" sourceLastImported="1451481430" externalFileCRC32="1722902507" externalFileSize="98292" originalCompressionType="lossless" quality="50" href="kale-sooske.png" bitmapDataHRef="M 1 1451484423.dat" frameRight="17040" frameBottom="17040"/>
      </media>
      <symbols>
-          <Include href="KhaleSouske_b.xml" itemID="5683e6ca-00000246" lastModified="1451488146"/>
+          <Include href="KhaleSouske.b.xml" itemID="568626ee-000001d7" lastModified="1451632736"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
                <layers>
-                    <DOMLayer name="Layer 1" color="#4FFF4F">
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="KhaleSouske_b" name="khalesouske_b" centerPoint3DX="72.35" centerPoint3DY="688.3">
+                                        <DOMSymbolInstance libraryItemName="KhaleSouske.b" name="khalesouske_b" selected="true" centerPoint3DX="72.35" centerPoint3DY="688.3">
                                              <matrix>
                                                   <Matrix a="0.748504638671875" d="0.95989990234375" tx="72.55" ty="687.45"/>
                                              </matrix>
@@ -25,11 +25,11 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+                    <DOMLayer name="Layer 2" color="#9933CC">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMBitmapInstance selected="true" libraryItemName="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png">
+                                        <DOMBitmapInstance libraryItemName="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png">
                                              <matrix>
                                                   <Matrix a="0.581756591796875" tx="14" ty="0.45"/>
                                              </matrix>
@@ -49,6 +49,17 @@
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="120188" publishTime="1451632867"/>
+          <PublishItem publishSize="119685" publishTime="1451632823"/>
+          <PublishItem publishSize="119684" publishTime="1451632768"/>
+          <PublishItem publishSize="119684" publishTime="1451632658"/>
+          <PublishItem publishSize="120121" publishTime="1451631998" publishDebug="true"/>
+          <PublishItem publishSize="120116" publishTime="1451631929"/>
+          <PublishItem publishSize="120038" publishTime="1451631873"/>
+          <PublishItem publishSize="120034" publishTime="1451631870" publishDebug="true"/>
+          <PublishItem publishSize="120038" publishTime="1451631848"/>
+          <PublishItem publishSize="120037" publishTime="1451631847" publishDebug="true"/>
+          <PublishItem publishSize="120037" publishTime="1451631757"/>
           <PublishItem publishSize="120037" publishTime="1451631253" publishDebug="true"/>
           <PublishItem publishSize="120037" publishTime="1451630899"/>
           <PublishItem publishSize="120038" publishTime="1451630192" publishDebug="true"/>
@@ -58,16 +69,5 @@
           <PublishItem publishSize="78055" publishTime="1451488955" publishDebug="true"/>
           <PublishItem publishSize="78056" publishTime="1451488906"/>
           <PublishItem publishSize="78055" publishTime="1451488903" publishDebug="true"/>
-          <PublishItem publishSize="78055" publishTime="1451488688"/>
-          <PublishItem publishSize="78053" publishTime="1451488685" publishDebug="true"/>
-          <PublishItem publishSize="78055" publishTime="1451488152"/>
-          <PublishItem publishSize="77991" publishTime="1451487299"/>
-          <PublishItem publishSize="77991" publishTime="1451487296" publishDebug="true"/>
-          <PublishItem publishSize="77990" publishTime="1451487158"/>
-          <PublishItem publishSize="77986" publishTime="1451487140"/>
-          <PublishItem publishSize="77990" publishTime="1451487139" publishDebug="true"/>
-          <PublishItem publishSize="77987" publishTime="1451487121"/>
-          <PublishItem publishSize="77991" publishTime="1451487120" publishDebug="true"/>
-          <PublishItem publishSize="77990" publishTime="1451487030"/>
      </publishHistory>
 </DOMDocument>
