@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="KhaleSouske_b" itemID="5683e6ca-00000246" linkageExportForAS="true" linkageClassName="Khalesoskeh_battle" lastModified="1451488146">
+  <timeline>
+    <DOMTimeline name="KhaleSouske_b" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="kale-sooske.png">
+                  <matrix>
+                    <Matrix a="0.1387939453125" d="0.143203735351563" tx="-59.1" ty="-61"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="426.15" y="425.95"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="kale-sooske.png">
+                  <matrix>
+                    <Matrix a="-0.139266967773438" d="0.143203735351563" tx="59.4" ty="-61"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="426.15" y="425.95"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
